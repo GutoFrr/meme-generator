@@ -104,3 +104,18 @@ main {
 .top {
     top: 0;
 }
+
+@media (min-width: 1000px) {
+    /* .form {
+        width: 50%;
+    }
+
+    .meme {
+        width: 50%;
+    } */
+
+    main {
+        width: 50%;
+        margin-left: 25%;
+    }
+}
